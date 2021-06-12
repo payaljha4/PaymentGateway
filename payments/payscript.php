@@ -1,7 +1,7 @@
 <form action="https://www.example.com/payment/success/" method="POST">
 <script
     src="https://checkout.razorpay.com/v1/checkout.js"
-    data-key="rzp_test_YYTbiCZAAEgdMJ" 
+    data-key=" rzp_test_mZNzawpicVOX3V" 
     data-currency="INR"
     data-buttontext="Pay with Razorpay"
     data-name="Acme Corp"
