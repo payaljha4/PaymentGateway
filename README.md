@@ -7,6 +7,8 @@ Instruction:
 2. Copy that folder into you server eg htdocs in XAMPP.
 3. The Database code is in the file named "payment.sql"
 
+![](/Images/SS1.png)
+
 any query please contact on payaljha.24200@gmail.com
 
 Thanks
